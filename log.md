@@ -4,7 +4,7 @@
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I plan to finish the Treehouse JavaScript track I've been working through. Next, I want to complete the udemy web developer bootcamp. Finally, I would like to work through [p1xt-guides](https://github.com/P1xt/p1xt-guides) starting with the Job Ready Guide.
+**Thoughts:** I plan to finish the Treehouse JavaScript track I've been working through. Next, I want to complete the udemy web developer bootcamp and the free LambdaSchool [Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/). Finally, I would like to work through [p1xt-guides](https://github.com/P1xt/p1xt-guides) starting with the Job Ready Guide.
 
 <!-- # 100 Days Of Code - Log
 
