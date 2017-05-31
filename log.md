@@ -4,9 +4,7 @@
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I plan to finish the Treehouse JavaScript track I've been working through. Next, I want to complete the udemy web developer bootcamp. Finally, I would like to work through [p1xt-guides](https://github.com/P1xt/p1xt-guides) starting with the Job Ready Guide.
 
 <!-- # 100 Days Of Code - Log
 
