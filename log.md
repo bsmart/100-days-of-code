@@ -2,9 +2,9 @@
 
 ### Day 0: June 1, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started the Udemy web developer bootcamp.
 
-**Thoughts:** I plan to finish the Treehouse JavaScript track I've been working through. Next, I want to complete the free LambdaSchool bootcamp [Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/) and udemy web developer course. Finally, I would like to work through [p1xt-guides](https://github.com/P1xt/p1xt-guides) starting with the Job Ready Guide. I'm referencing this dude's [log](https://github.com/jjprevite/100-days-of-code/blob/master/log.md) when creating this path.
+**Thoughts:** First, I plan to complete the Udemy web developer bootcamp. Next, I want to complete the free LambdaSchool bootcamp [Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/). Finally, I would like to work through [p1xt-guides](https://github.com/P1xt/p1xt-guides) starting with the Job Ready Guide. I'm referencing this dude's [log](https://github.com/jjprevite/100-days-of-code/blob/master/log.md) to create my learning path.
 
 <!-- # 100 Days Of Code - Log
 
