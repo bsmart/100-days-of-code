@@ -10,7 +10,7 @@
 
 **Today's Progress**: Off to rocky start, but I continued the Udemy web developer bootcamp. Still covering markup, so the material isn't the most exciting, but the teacher does a great job.
 
-**Thoughts:** I'm feeling a bit exhausted since there is a plethora of learning materials out there. I'm hoping to finish the Udemy bootcamp this week since my cohort starts soon and I want to be 100% committed. On a die note, I'm also trying to take better care of my health which always makes learning more enjoyable. Hoping to be **ON IT** this week and note miss a day.
+**Thoughts:** I'm feeling a bit exhausted since there is a plethora of learning materials out there. I'm hoping to finish the Udemy bootcamp this week since my cohort starts soon and I want to be 100% committed. On a side note, I'm also trying to take better care of my health which always makes learning more enjoyable. Hoping to be **ON IT** this week and note miss a day.
 
 <!-- # 100 Days Of Code - Log
 
