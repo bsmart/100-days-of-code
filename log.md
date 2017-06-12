@@ -53,6 +53,37 @@ If a button element is the last thing in a form, it will actually submit the for
 
 **New Learns:** Hexadecimal – Base 16 (0, 1, 2, 3, 4, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F) <br> #_ _ _ _ _ _ first 2 how much RED, how much GREEN, how much BLUE. RGB – 3 channels: RED, GREEN, and BLUE. Each ranges from 0 - 255. RGBA – Just like RGB, but with an alpha(transparency) channel. Ranges from 0.0 - 1.0.
 
+### Day 7: June 8, 2017
+
+**Today's Progress**: Worked on the WDB, completing Section: 5 with 18% complete overall. I signed up for [Chingu FCC Speedrun Challenge](https://github.com/P1xt/chingu-fcc-speedrun-challenge), Tapirs Build to Learn - OPEN project edition, and accountability buddy.
+
+**Thoughts:** I'm excited to begin my Chingu, there is definitely much work to be done.
+
+### Day 8: June 9, 2017
+
+**Today's Progress**: Worked on the WDB, completing Section: 5 with 19% complete overall.
+
+**Thoughts:** I may have to put my WDB course on the back burner and focus on my Chingu tasks.
+
+### Day 9: June 10, 2017
+
+**Today's Progress**: Explored the Tapir Slack channel and wrote my intro.
+
+**Thoughts:** I'm gleaning a lot from my fellow Tapirs on Slack.
+
+### Day 10: June 11, 2017
+
+**Today's Progress**: Worked on the WDB with 20% complete overall.
+
+**Thoughts:** Finally past the CSS section of the WDB course, looking forward to the JavaScript section.
+
+### Day 11: June 12, 2017
+
+**Today's Progress**:
+
+**Thoughts:**
+
+
 <!-- # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
